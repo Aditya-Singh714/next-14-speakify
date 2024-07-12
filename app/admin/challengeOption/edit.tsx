@@ -14,8 +14,8 @@ export const ChallengeOptionEdit = () => {
            label="Correct option" 
         />
         <ReferenceInput 
-           source="challegeId"
-           reference="challeges"
+           source="challengeId"
+           reference="challenges"
         />
         <TextInput
            source="imageSrc"

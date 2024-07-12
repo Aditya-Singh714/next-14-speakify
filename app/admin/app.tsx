@@ -19,9 +19,9 @@ import { ChallengeList } from "./challenge/list";
 import { ChallengeCreate } from "./challenge/create";
 import { ChallengeEdit } from "./challenge/edit";
 
-import { ChallengeOptionList } from "./chalengeOption/list";
-import { ChallengeOptionCreate } from "./chalengeOption/create";
-import { ChallengeOptionEdit } from "./chalengeOption/edit";
+import { ChallengeOptionList } from "./challengeOption/list";
+import { ChallengeOptionCreate } from "./challengeOption/create";
+import { ChallengeOptionEdit } from "./challengeOption/edit";
 
 const dataProvider = simpleRestProvider("/api");
 
